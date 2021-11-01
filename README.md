@@ -1,19 +1,19 @@
 <h2 align="center">文件說明</h2>
 
-<p align="center">本資料集為 AI/Big Data 班 RDB 課程之學習筆記，分為 Lesson (課堂程式碼) 及 Exercise (作業練習)兩部分。<br><br>
+<p align="center">本資料集為 AI/Big Data 班 RDB 課程之學習筆記，分為 Lesson (課堂程式碼) 及 Exercise (作業練習) 兩部分。<br><br>
 # Lesson 主要記載隨堂練習之 code，依據講義 11 章再細分為各節次，循序統整程式碼及註解筆記。<br>
 # Exercise 為課後之練習作業，文件中均已載明試題、參考解答及備忘註解供參。</p>
 
-<pre>
-Lesson 01  資料庫管理系統簡介
-Lesson 02  簡單查詢
-Lesson 03  查詢條件、資料排序
-Lesson 04  資料型態、內建函數
-Lesson 05  資料彙總與分組
-Lesson 06  多資料表查詢
-Lesson 07  子查詢
-Lesson 08  資料維護與交易控制
-Lesson 09  資料表與資料限制條件
-Lesson 10  視觀表、索引
-Lesson 11  權限管理
-</pre>
+| | 練習作業 |
+| :--- | :---: |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2001%20%20%E8%B3%87%E6%96%99%E5%BA%AB%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%E7%B0%A1%E4%BB%8B.md">Lesson 01  資料庫管理系統簡介</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2001%20%20%E8%B3%87%E6%96%99%E5%BA%AB%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%E7%B0%A1%E4%BB%8B.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2002%20%20%E7%B0%A1%E5%96%AE%E6%9F%A5%E8%A9%A2.md">Lesson 02  簡單查詢</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2002%20%20%E7%B0%A1%E5%96%AE%E6%9F%A5%E8%A9%A2.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2003%20%20%E6%9F%A5%E8%A9%A2%E6%A2%9D%E4%BB%B6%E3%80%81%E8%B3%87%E6%96%99%E6%8E%92%E5%BA%8F.md">Lesson 03  查詢條件、資料排序</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2003%20%20%E6%9F%A5%E8%A9%A2%E6%A2%9D%E4%BB%B6%E3%80%81%E8%B3%87%E6%96%99%E6%8E%92%E5%BA%8F.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2004%20%20%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B%E3%80%81%E5%85%A7%E5%BB%BA%E5%87%BD%E6%95%B8.md">Lesson 04  資料型態、內建函數</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2004%20%20%E8%B3%87%E6%96%99%E5%9E%8B%E6%85%8B%E3%80%81%E5%85%A7%E5%BB%BA%E5%87%BD%E6%95%B8.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2005%20%20%E8%B3%87%E6%96%99%E5%BD%99%E7%B8%BD%E8%88%87%E5%88%86%E7%B5%84.md">Lesson 05  資料彙總與分組</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2005%20%20%E8%B3%87%E6%96%99%E5%BD%99%E7%B8%BD%E8%88%87%E5%88%86%E7%B5%84.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2006%20%20%E5%A4%9A%E8%B3%87%E6%96%99%E8%A1%A8%E6%9F%A5%E8%A9%A2.md">Lesson 06  多資料表查詢</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2006%20%20%E5%A4%9A%E8%B3%87%E6%96%99%E8%A1%A8%E6%9F%A5%E8%A9%A2.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2007%20%20%E5%AD%90%E6%9F%A5%E8%A9%A2.md">Lesson 07  子查詢</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2007%20%20%E5%AD%90%E6%9F%A5%E8%A9%A2.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2008%20%20%E8%B3%87%E6%96%99%E7%B6%AD%E8%AD%B7%E8%88%87%E4%BA%A4%E6%98%93%E6%8E%A7%E5%88%B6.md">Lesson 08  資料維護與交易控制</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2008%20%20%E8%B3%87%E6%96%99%E7%B6%AD%E8%AD%B7%E8%88%87%E4%BA%A4%E6%98%93%E6%8E%A7%E5%88%B6.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2009%20%20%E8%B3%87%E6%96%99%E8%A1%A8%E8%88%87%E8%B3%87%E6%96%99%E6%A2%9D%E4%BB%B6%E9%99%90%E5%88%B6.md">Lesson 09  資料表與資料限制條件</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2009%20%20%E8%B3%87%E6%96%99%E8%A1%A8%E8%88%87%E8%B3%87%E6%96%99%E6%A2%9D%E4%BB%B6%E9%99%90%E5%88%B6.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2010%20%20%E8%A6%96%E8%A7%80%E8%A1%A8%E3%80%81%E7%B4%A2%E5%BC%95.md">Lesson 10  視觀表、索引</a> | <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Exercise%2010%20%20%E8%A6%96%E8%A7%80%E8%A1%A8%E3%80%81%E7%B4%A2%E5%BC%95.md">點我</a> |
+| <a href="https://github.com/Lynn19950915/Lecture-MySQL/blob/main/Lesson%2011%20%20%E6%AC%8A%E9%99%90%E7%AE%A1%E7%90%86.md">Lesson 11  權限管理</a> |  |
